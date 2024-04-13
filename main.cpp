@@ -1,5 +1,15 @@
 #include "helperFunctions.h"
 
+// Нумерация нодов, которая используется в решении
+//      6
+//       \
+//        3
+//       / \
+//      2 - 4 - 5
+//     /
+//    1
+
+
 int main()
 {
   std::vector<std::vector<std::vector<int>>> solutions; //сохраняем решения
